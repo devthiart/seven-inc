@@ -1,0 +1,17 @@
+:root { 
+  --primary-color: #419BF0;
+  --secondary-color: #5EB1FF;
+  --button-click-color: #1C62A3;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1{
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 1rem;
+  text-align: center;
+}
+
